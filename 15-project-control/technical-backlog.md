@@ -1,6 +1,11 @@
-# technical-backlog
+# Technical Backlog
 
-> Estado: 🔴 | Última actualización: 2026-06-16
+> Estado: 🟡 | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
-<!-- Contenido pendiente -->
+## Pendientes
+
+- Completar contratos OpenAPI.
+- Definir owners de servicios.
+- Aterrizar diagramas UML.
+- Cerrar decisiones arquitectonicas pendientes.
