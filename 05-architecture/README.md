@@ -1,17 +1,17 @@
 # Arquitectura
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
+> Estado: 🟡 En progreso | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
 ## Contenido
 
-Describe la arquitectura del sistema, despliegue, decisiones técnicas y aspectos transversales.
+Describe la arquitectura del sistema, despliegue, decisiones tecnicas y aspectos transversales.
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [overview.md](./overview.md) | Vista general de arquitectura y componentes | 🔴 |
-| [deployment.md](./deployment.md) | Topología de despliegue y ambientes | 🔴 |
-| [cross-cutting.md](./cross-cutting.md) | Seguridad, logging, auditoría, errores y demás aspectos transversales | 🔴 |
-| [decisions/](./decisions/) | Registro de decisiones de arquitectura (ADR) | 🔴 |
+| [overview.md](./overview.md) | Vista general de arquitectura y componentes | 🟡 |
+| [deployment.md](./deployment.md) | Topologia de despliegue y ambientes | 🟡 |
+| [cross-cutting.md](./cross-cutting.md) | Seguridad, logging, auditoria, errores y demas aspectos transversales | 🟡 |
+| [decisions/](./decisions/) | Registro de decisiones de arquitectura (ADR) | 🟡 |
