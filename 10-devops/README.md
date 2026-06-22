@@ -1,16 +1,16 @@
 # DevOps
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
+> Estado: 🟡 Pendiente | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
 ## Contenido
 
-Documenta instalación local, CI/CD y ambientes del proyecto.
+Describe setup local, entornos y automatizacion de entrega.
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [local-setup.md](./local-setup.md) | Preparación del entorno local de desarrollo | 🔴 |
-| [ci-cd.md](./ci-cd.md) | Pipelines, despliegues y controles de calidad automatizados | 🔴 |
-| [environments.md](./environments.md) | Ambientes, propósito y reglas de uso | 🔴 |
+| [local-setup.md](./local-setup.md) | Requisitos para correr el proyecto localmente | 🟡 |
+| [environments.md](./environments.md) | Entornos y variables de configuracion | 🟡 |
+| [ci-cd.md](./ci-cd.md) | Flujo de integracion y despliegue continuo | 🟡 |

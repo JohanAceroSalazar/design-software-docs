@@ -1,17 +1,29 @@
-# Microservicios
+# Microservices
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
-> Autor: Por definir | Equipo: Por definir
+> Estado: 🟡 En progreso | Ultima actualizacion: 2026-06-18
+> Autor: Equipo SENA - Diseño de Software
 
 ## Contenido
 
-Centraliza el catálogo de microservicios, patrones de comunicación y documentación por servicio.
+Centraliza el catalogo de microservicios, los patrones de comunicacion y la documentacion especifica por servicio.
+
+## Servicios incluidos
+
+- `iam-service`
+- `reference-data-service`
+- `academic-management-service`
+- `training-environment-service`
+- `scheduling-service`
+- `actors-service`
+- `document-service`
+- `monitoring-service`
+- `audit-service`
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [service-catalog.md](./service-catalog.md) | Inventario de servicios, owners, repos y estado documental | 🔴 |
-| [communication-patterns.md](./communication-patterns.md) | Patrones síncronos, asíncronos y resiliencia | 🔴 |
+| [service-catalog.md](./service-catalog.md) | Inventario de servicios, owners, repos y estado documental | 🟡 |
+| [communication-patterns.md](./communication-patterns.md) | Patrones sincronicos, asincronicos y resiliencia | 🟡 |
 | [_template/](./_template/) | Plantilla para documentar un servicio nuevo; no representa un microservicio real | 🟡 |
-| [services/](./services/) | Documentación específica por microservicio | 🔴 |
+| [services/](./services/) | Documentacion especifica por microservicio | 🟡 |
