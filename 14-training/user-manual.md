@@ -1,6 +1,11 @@
-# user-manual
+# User Manual
 
-> Estado: 🔴 | Última actualización: 2026-06-16
+> Estado: 🟡 | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
-<!-- Contenido pendiente -->
+## Contenido
+
+- Ingreso al sistema.
+- Consulta de horarios.
+- Consulta de ambientes y reservas.
+- Notificaciones y cambios.

@@ -1,15 +1,15 @@
 # UML
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
+> Estado: 🟡 Pendiente | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
-Repositorio de diagramas UML y arquitectura visual. Todo diagrama debe tener fuente editable y exportación revisable.
+Repositorio de diagramas UML y arquitectura visual. Todo diagrama debe tener fuente editable y exportacion revisable.
 
 ## Convenciones
 
-- Fuentes en `diagrams/source/` con extensión `.wsd` o `.puml`
+- Fuentes en `diagrams/source/` con extension `.wsd` o `.puml`
 - Exportaciones en `diagrams/exports/` con formato `.svg` preferido
-- Nombre de archivo: `<dominio>-<tipo>.<ext>` (ej: `horario-sequence.wsd`)
+- Nombre de archivo: `<dominio>-<tipo>.<ext>`
 - Todo diagrama debe registrarse en [diagram-index.md](./diagram-index.md)
 
 ## Tipos de diagrama
@@ -26,8 +26,8 @@ Repositorio de diagramas UML y arquitectura visual. Todo diagrama debe tener fue
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [diagram-index.md](./diagram-index.md) | Índice de fuentes y exportaciones de diagramas | 🔴 |
-| [diagrams/source/](./diagrams/source/) | Fuentes editables de diagramas | 🔴 |
-| [diagrams/exports/](./diagrams/exports/) | Exportaciones SVG o PNG | 🔴 |
+| [diagram-index.md](./diagram-index.md) | Indice de fuentes y exportaciones de diagramas | 🟡 |
+| [diagrams/source/](./diagrams/source/) | Fuentes editables de diagramas | 🟡 |
+| [diagrams/exports/](./diagrams/exports/) | Exportaciones SVG o PNG | 🟡 |
