@@ -1,6 +1,15 @@
-# backup-and-recovery
+# Backup and Recovery
 
-> Estado: 🔴 | Última actualización: 2026-06-16
+> Estado: 🟡 | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
-<!-- Contenido pendiente -->
+## Estrategia
+
+- Backups periodicos de datos criticos.
+- Validacion de restauracion.
+- Definicion de RPO y RTO.
+
+## Pruebas
+
+- Simulacion de restauracion.
+- Verificacion de integridad tras recovery.
