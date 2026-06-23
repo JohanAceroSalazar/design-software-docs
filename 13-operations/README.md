@@ -1,16 +1,16 @@
-# Operaciones
+# Operations
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
+> Estado: 🟡 Pendiente | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
 ## Contenido
 
-Describe cómo operar, monitorear, responder incidentes y recuperar el sistema.
+Describe como operar, monitorear, responder incidentes y recuperar el sistema.
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [observability.md](./observability.md) | Métricas, logs, trazas, alertas y tableros | 🔴 |
-| [incident-management.md](./incident-management.md) | Clasificación, respuesta y comunicación de incidentes | 🔴 |
-| [backup-and-recovery.md](./backup-and-recovery.md) | Backups, restauración, RPO/RTO y pruebas de recuperación | 🔴 |
+| [observability.md](./observability.md) | Metricas, logs, trazas, alertas y tableros | 🟡 |
+| [incident-management.md](./incident-management.md) | Clasificacion, respuesta y comunicacion de incidentes | 🟡 |
+| [backup-and-recovery.md](./backup-and-recovery.md) | Backups, restauracion, RPO/RTO y pruebas de recuperacion | 🟡 |
