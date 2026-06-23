@@ -1,16 +1,16 @@
 # Contexto
 
-> Estado: 🔴 Pendiente | Última actualización: 2026-06-16
+> Estado: 🟡 En progreso | Ultima actualizacion: 2026-06-18
 > Autor: Por definir | Equipo: Por definir
 
 ## Contenido
 
-Describe el problema, alcance, contexto institucional y vocabulario base del proyecto Horarios SENA.
+Documenta el contexto institucional, el alcance funcional del sistema de horarios y el lenguaje comun del proyecto.
 
 ## Archivos
 
-| Archivo | Descripción | Estado |
+| Archivo | Descripcion | Estado |
 |---------|-------------|--------|
-| [overview.md](./overview.md) | Contexto institucional, problema y objetivos generales | 🔴 |
-| [scope.md](./scope.md) | Alcance, exclusiones, supuestos y restricciones | 🔴 |
-| [glossary.md](./glossary.md) | Glosario compartido del dominio SENA y del sistema | 🔴 |
+| [overview.md](./overview.md) | Contexto institucional y problema a resolver | 🟡 |
+| [scope.md](./scope.md) | Alcance, exclusiones y criterios generales | 🟡 |
+| [glossary.md](./glossary.md) | Terminos clave y definiciones | 🟡 |
